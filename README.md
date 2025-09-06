@@ -75,6 +75,6 @@ To deliver a tool that:
 
 ---
 
-6. 🔗 Dashboard Preview
+6. 🔗 Dashboard Preview  
 
-https://github.com/sahith-patnala/COVID-19/blob/main/COVID19.pdf
+[COVID-19 Dashboard](https://github.com/sahith-patnala/COVID-19/blob/main/COVID19.pdf)  
